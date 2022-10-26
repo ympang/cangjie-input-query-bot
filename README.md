@@ -1,0 +1,1 @@
+# cangjie-input-query-bot
